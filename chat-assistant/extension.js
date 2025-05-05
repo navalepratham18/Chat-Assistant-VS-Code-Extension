@@ -208,7 +208,7 @@ class ChatViewProvider {
         <button onclick="send()">Send</button>
       </div>
 
-      <div id="footer">Project by Team Noobs</div>
+      <div id="footer">Project by Team NooBs</div>
 
       <script>
         const vscode = acquireVsCodeApi();
