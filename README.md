@@ -24,7 +24,7 @@ Welcome to **Chat Assistant**, a sleek and intelligent **VS Code extension** tha
 
 ---
 
-### ✅ Steps to Run the Extension
+## 🚀 Steps to Run the Extension
 
 1.  **Install Prerequisites**
     *   Install **Node.js** and **Visual Studio Code** on your system.
