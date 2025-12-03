@@ -24,14 +24,33 @@ Welcome to **Chat Assistant**, a sleek and intelligent **VS Code extension** tha
 
 ---
 
-## 🚀 Getting Started
+### ✅ Steps to Run the Extension
 
-1. Clone this repo.
-2. Install [Ollama](https://ollama.com) and pull TinyLlama:
-   ```bash
-   ollama pull tinyllama
-3. Open the project in VS Code and press F5 to launch the extension.
-4. Chat with your new assistant via the sidebar!
+1.  **Install Prerequisites**
+    *   Install **Node.js** and **Visual Studio Code** on your system.
+2.  ```bash
+    npm install -g yo generator-code
+3.  ```bash
+    cd path/to/your/chat-assistant
+4.  ```bash
+    npm install node-fetch
+5.  **Install and Start Ollama**
+    *   Download Ollama from its official site.
+    ```bash    
+    *   ollama pull tinyllama
+    *   ollama run tinyllama
+6. ```bash
+   code .
+    
+7.  **Run the Extension**
+    *   Press **F5**
+    *   A new **Extension Development Host** window will open.
+        
+8.  **Use the Chat Assistant Sidebar**
+    *   Open the sidebar tab named **Chat Assistant**
+    *   Type your prompt
+    *   Click **Send**
+    *   The message is processed by **TinyLlama locally**, and the response appears in the UI.
 
 ---
 
