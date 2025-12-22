@@ -2,6 +2,12 @@
 
 Welcome to **Chat Assistant**, a sleek and intelligent **VS Code extension** that brings local AI-powered conversations to your coding workspace – without needing an internet connection!
 
+---
+
+## 🧠 Project Overview
+
+
+https://github.com/user-attachments/assets/a098bb45-47e5-484e-b193-c8bb25d5e780
 
 ---
 
@@ -94,10 +100,6 @@ MIT – Feel free to use, learn, and improve upon it.
 
 ---
 
-## 🧠 Project Overview
-
-
-https://github.com/user-attachments/assets/a098bb45-47e5-484e-b193-c8bb25d5e780
 
 
 
